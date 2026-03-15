@@ -78,11 +78,6 @@ Similar techniques were applied across all weather datasets.
 ### 🔹 State 2
 ![Boston](outputs/monthly_trend_boston.png)-
 
-## 🧠 Project Note
-
-The analytical logic, data workflow, and visualization design were fully implemented by me.
-The project was originally developed in notebook format and later converted into a fully runnable Python script for better structure and usability.
-
 ---
 
 ## 📄 License
