@@ -76,7 +76,7 @@ Similar techniques were applied across all weather datasets.
 ![State1](outputs/Monthly_trend_2014_Tel_Avi.png)
 
 ### 🔹 State 2
-![State2](outputs/Monthly_trend_Boston.png)-
+![State2](outputs/monthly_trend_boston.png)-
 
 ## 🧠 Project Note
 
