@@ -73,10 +73,10 @@ Similar techniques were applied across all weather datasets.
 ## 📊 Sample Outputs  
 
 ### 🔹 State 1
-![Tel Avi](outputs/montly trend Tel Avi.png)
+![Tel Avi](Monthly_trend_Boston.png)
 
 ### 🔹 State 2
-![Boston](outputs/montly trend Boston.png.png)
+![Boston](Monthly_trend_2014_Tel_Avi.png)
 
 ---
 
