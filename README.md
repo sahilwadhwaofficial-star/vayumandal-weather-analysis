@@ -70,9 +70,13 @@ Similar techniques were applied across all weather datasets.
 
 ---
 
-## 📊 Outputs
+## 📊 Sample Outputs  
 
-Generated visualizations appear during execution and can be saved inside the `outputs/` folder.
+### 🔹 State 1
+![Tel Avi](outputs/montly trend Tel Avi.png)
+
+### 🔹 State 2
+![Boston](outputs/montly trend Boston.png.png)
 
 ---
 
