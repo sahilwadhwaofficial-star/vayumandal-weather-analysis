@@ -70,14 +70,13 @@ Similar techniques were applied across all weather datasets.
 
 ---
 
-## 📊 Sample Output  
+## 📊 Sample Outputs  
 
-### Monthly Temperature Comparison  
+### 🔹 State 1
+![State1](outputs/Monthly_trend_2014_Tel_Avi.png)
 
-| State 1 | State 2 |
-|----------|----------|
-| ![State1] outputs/Monthly_trend_2014_Tel_Avi.png | ![State2] outputs/Monthly_trend_boston.png |
----
+### 🔹 State 2
+![State2](outputs/Monthly_trend_Boston.png)-
 
 ## 🧠 Project Note
 
